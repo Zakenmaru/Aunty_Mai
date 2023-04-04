@@ -18,7 +18,7 @@ The following commands are part of the MVP:
   * _Format_: `!aunty -i [character]` or `!aunty -info [character]`
   * _Description_: Will provide character information to the user. If a character isn't provided, **The Midnight Shift** will be described by default.
 
-# # TODO: 
+## TODO: 
 * **List**:
   * _Format_: `!aunty -l <characters>/<channels>` or `!aunty -list <characters>/<channels>`
   * _Description_: Those characters/channels can be tough to keep track of! No worries - the list command is here to help! Specify either `characters` or `channels` after the flag.
